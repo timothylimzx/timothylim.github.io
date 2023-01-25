@@ -1,5 +1,5 @@
 # Timothy's Portfolio
-## H2
+## About me 
 ### H3
 #### H4
 ##### H5
